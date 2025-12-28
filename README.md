@@ -1,12 +1,12 @@
  Health Assistant AI
-A supportive, educational AI health companion for general questions — not medical advice.
-Health Assistant AI is a web-based application that allows users to ask health-related questions and receive warm, educational, and reassuring responses powered by the OpenAI Assistants API. The app is designed to provide clarity, emotional support, and helpful context — without diagnosing conditions or giving medical treatment instructions.
+Is a supportive, educational AI health companion for general questions  not medical advice.
+Health Assistant AI is a web-based application that allows users to ask health-related questions and receive warm, educational, and reassuring responses powered by the OpenAI Assistants API. The app is designed to provide clarity, emotional support, and helpful context without diagnosing conditions or giving medical treatment instructions.
  Live site 
  Tech Stack: FastAPI, Python, Uvicorn, OpenAI API
  Features
 Ask general health-related questions
 Warm, encouraging, educational responses
- Modern black UI with centered header (ChatGPT-style)
+ Modern black UI with centered header (ChatGPT style)
 Emergency keyword detection for safety
 API-key secured OpenAI integration
 eployable to Render/Netlify/Heroku/Cloud
@@ -16,5 +16,5 @@ The backend sends the question to an OpenAI Assistant
 The AI replies with:
 General health education
 Emotional reassurance
-Possible factors in non-diagnostic terms
+Possible factors in non diagnostic terms
 Encouragement to seek medical care when appropriate
